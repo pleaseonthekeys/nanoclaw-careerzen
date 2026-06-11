@@ -7,7 +7,7 @@ What's different from upstream:
 - **Six agent templates pre-loaded** in `groups/` — Scout, Tracker, Tailor, Intel, Coach, Connector — with `[PLACEHOLDERS]` and commented examples. The course (and its setup widgets) fill these in.
 - **Pinned at a course-tested version.** Stability over novelty: this tree is QA'd against the course lessons. Pull upstream at your own pace.
 
-**Start here:** [The Transition Lab](https://laurenalbert.me) walks you through everything — install, your first agent, and the full six-agent system. If you can copy and paste, you can build this.
+**Start here:** [The Transition Lab](https://laurenalbert.me/coaching?tab=masterclass) walks you through everything — install, your first agent, and the full six-agent system. If you can copy and paste, you can build this.
 
 Credit where it's due: NanoClaw is [@gavrielc](https://github.com/gavrielc)'s project and philosophy — small enough to understand, agents in real containers. This fork exists so course students start from a known-good, Telegram-ready state. License unchanged (see LICENSE).
 
