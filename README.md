@@ -1,6 +1,6 @@
 # nanoclaw-careerzen
 
-**The CareerZen fork of [NanoClaw](https://github.com/gavrielc/nanoclaw) — the engine behind [The Transition Lab](https://laurenalbert.me) job-search course.**
+**The CareerZen fork of [NanoClaw](https://github.com/gavrielc/nanoclaw) — the engine behind [The Transition Lab](https://laurenalbert.me/coaching?tab=masterclass) job-search course.**
 
 What's different from upstream:
 - **Telegram support applied** (via NanoClaw's `/add-telegram` skill) — this fork talks Telegram out of the box, which is what the course teaches. WhatsApp users: use upstream instead.
