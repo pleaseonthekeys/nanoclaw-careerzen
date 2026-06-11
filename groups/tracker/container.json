@@ -1,0 +1,12 @@
+{
+  "mcpServers": {},
+  "packages": {
+    "apt": [],
+    "npm": []
+  },
+  "additionalMounts": [],
+  "skills": "all",
+  "groupName": "Tracker",
+  "assistantName": "Tracker",
+  "agentGroupId": "ag-1780352321499-i2gs6e"
+}

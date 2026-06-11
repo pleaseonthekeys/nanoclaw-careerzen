@@ -1,0 +1,12 @@
+{
+  "mcpServers": {},
+  "packages": {
+    "apt": [],
+    "npm": []
+  },
+  "additionalMounts": [],
+  "skills": "all",
+  "groupName": "Scout",
+  "assistantName": "Scout",
+  "agentGroupId": "ag-1780345154664-h8u9zt"
+}

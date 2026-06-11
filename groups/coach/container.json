@@ -1,0 +1,12 @@
+{
+  "mcpServers": {},
+  "packages": {
+    "apt": [],
+    "npm": []
+  },
+  "additionalMounts": [],
+  "skills": "all",
+  "groupName": "Coach",
+  "assistantName": "Coach",
+  "agentGroupId": "ag-1780685773467-ka8t93"
+}

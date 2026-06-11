@@ -1,0 +1,12 @@
+{
+  "mcpServers": {},
+  "packages": {
+    "apt": [],
+    "npm": []
+  },
+  "additionalMounts": [],
+  "skills": "all",
+  "groupName": "Connector",
+  "assistantName": "Connector",
+  "agentGroupId": "ag-1780693433948-rjgzv9"
+}

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {},
+  "packages": {
+    "apt": [],
+    "npm": []
+  },
+  "additionalMounts": [],
+  "skills": "all",
+  "groupName": "Intel",
+  "assistantName": "Intel",
+  "agentGroupId": "ag-1780685773015-lvbp2x"
+}

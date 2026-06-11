@@ -1,0 +1,12 @@
+{
+  "mcpServers": {},
+  "packages": {
+    "apt": [],
+    "npm": []
+  },
+  "additionalMounts": [],
+  "skills": "all",
+  "groupName": "Tailor",
+  "assistantName": "Tailor",
+  "agentGroupId": "ag-1780437113052-khrq6t"
+}
